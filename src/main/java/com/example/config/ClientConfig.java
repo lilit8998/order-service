@@ -13,4 +13,5 @@ public class ClientConfig {
                 .baseUrl(clientProperties.catalogServiceUri().toString())
                 .build();
     }
+
 }
